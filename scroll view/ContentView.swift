@@ -44,6 +44,7 @@ struct ContentView: View {
 
 // MARK: - CardView
 
+
 struct CardView: View {
     let rank: Int
     let title: String
